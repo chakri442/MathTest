@@ -22,4 +22,11 @@ public class Addition
 		int answer = num1 + num2 + num3 + num4;
 		return answer;
 	}
+	
+	public int sub(int num1, int num2){
+		
+		int answer = num1-num2;
+		return answer;
+		
+		}
 }
